@@ -15,9 +15,8 @@ body {
   background-color: #fff8d8;
   padding: 1em;
 }
-.furaipan {
+p.furaipan img {
    width:"100px";
-   height:"75px";
 h1 {
   font-size: 150%;
   margin: 0 0;
